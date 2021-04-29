@@ -15,7 +15,14 @@ public class PongeSort {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+    char[] lista = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'l' };
+    
+    
+        
+        
+        
+        
     }
     
 }
